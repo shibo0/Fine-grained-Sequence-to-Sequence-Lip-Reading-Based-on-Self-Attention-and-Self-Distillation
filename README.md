@@ -2,7 +2,7 @@
 
 PyTorch implementation
 
-[//]: , from the following paper:
+[//]: from the following paper:
 
 [//]: 待补充
 
